@@ -1,0 +1,16 @@
+.header {
+    margin: 25px;
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+
+.subtitulo {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #fff;
+}
